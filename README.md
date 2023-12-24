@@ -22,8 +22,8 @@ Summary of the assignment:
 - Implement `most_similar_robust` to handle multiple positive and negative words for solving analogies.
 - Solve analogies (e.g., dog:puppy :: cat:?, man:king :: woman:?, france:wine :: england:?).
 
-# Discussion
-## Provide explanations for the differences between the most common unigrams, bigrams, and trigrams based on the obtained results.
+## Discussion
+### Provide explanations for the differences between the most common unigrams, bigrams, and trigrams based on the obtained results.
 Unigrams capture more articles, conjunctions, prepositions, and adverbs.
 
 Bigrams are pairs of adjacent words that frequently occur together. They represent two-word combinations, or "collocations".
