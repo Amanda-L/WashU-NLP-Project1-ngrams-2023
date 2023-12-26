@@ -1,4 +1,4 @@
-# NLP-Project1-ngrams2023
+# WashU NLP Project 1: ngrams 
 
 ### Problem 1: N-grams
 
