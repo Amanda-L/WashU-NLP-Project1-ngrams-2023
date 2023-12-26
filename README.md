@@ -1,4 +1,5 @@
 # WashU NLP Project 1: ngrams 
+This project addresses two distinct problems. Firstly, the implementation involves computing unsmoothed N-grams by preprocessing text through the removal of punctuation, extra white spaces, and <unk> tokens. The n_gram function is then applied to calculate and update the occurrence counts of unigrams, bigrams, and trigrams in the given context. Additionally, the model is trained on the wikitext-2-v1 corpus, and the top 10 most frequent unigrams, bigrams, and trigrams are printed. Moving on to Problem 2, which centers on Word Embeddings, the project involves implementing functions like cosine_similarity to calculate similarity between vectors and most_similar to find words similar to specified inputs. The second part of Problem 2 requires using word embeddings to solve analogies, demonstrating the ability to handle multiple positive and negative words for analogy-solving through the implementation of the most_similar_robust function.
 
 ### Problem 1: N-grams
 
