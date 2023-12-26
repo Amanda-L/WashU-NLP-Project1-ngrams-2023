@@ -17,8 +17,8 @@
 - Implement `most_similar` to find the most similar words to specified input words.
 
 #### 2.2 Using Word Embeddings to Solve Analogies
-- Implement `most_similar_robust` to handle multiple positive and negative words for solving analogies.
 - Solve analogies (e.g., dog:puppy :: cat:?, man:king :: woman:?, france:wine :: england:?).
+- Implement `most_similar_robust` to handle multiple positive and negative words for solving analogies.
 
 ## Discussion
 ### Provide explanations for the differences between the most common unigrams, bigrams, and trigrams based on the obtained results.
