@@ -1,6 +1,4 @@
-# WashU-NLP-Project1-ngrams2023
-
-Summary of the assignment:
+# NLP-Project1-ngrams2023
 
 ### Problem 1: N-grams
 
