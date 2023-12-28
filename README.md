@@ -1,4 +1,4 @@
-# WashU NLP Project 1: ngrams 
+# WashU NLP Project 1: ngrams & word embeddings
 This project addresses two distinct problems. 
 
 Firstly, the implementation involves computing unsmoothed N-grams by preprocessing text through the removal of punctuation, extra white spaces, and <unk> tokens. The n_gram function is then applied to calculate and update the occurrence counts of unigrams, bigrams, and trigrams in the given context. 
